@@ -1,0 +1,22 @@
+#///////// START OF FILE //////////
+# better-conversions
+
+[package]
+name = "better-conversions"
+version = "0.2.0"
+edition = "2024"
+rust-version = "1.85.1"
+authors = ["Gistyr LLC <contact@gistyr.dev>"]
+description = "Safe and explicit numeric conversions with range and precision checking"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Lozlof/better-conversions"
+homepage = "https://github.com/Lozlof/better-conversions"
+documentation = "https://docs.rs/better-conversions"   
+keywords = ["conversion", "numeric", "casting", "precision", "safety"]
+categories = ["rust-patterns", "no-std-optional", "mathematics"]
+exclude = ["tests/*"]
+
+[dependencies]
+
+#///////// END OF FILE //////////
