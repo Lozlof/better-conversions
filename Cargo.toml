@@ -14,7 +14,7 @@ repository = "https://github.com/Lozlof/better-conversions"
 homepage = "https://github.com/Lozlof/better-conversions"
 documentation = "https://docs.rs/better-conversions"   
 keywords = ["conversion", "numeric", "casting", "precision", "safety"]
-categories = ["rust-patterns", "no-std-optional", "mathematics"]
+categories = ["rust-patterns", "no-std", "mathematics"]
 exclude = ["tests/*"]
 
 [dependencies]
